@@ -1,7 +1,7 @@
 Credits :
 --------- 
 
-=> Design & developed: "WebThemez"  http://webthemez.com 
+
 => Icons: https://www.flaticon.com/
 => Bootstrap : http://getbootstrap.com/
 => Fontawesome : https://fortawesome.github.io/Font-Awesome/
